@@ -16,3 +16,8 @@ Este proyecto contiene el desarrollo de una base de datos para una biblioteca. I
 - Aplicar buenas prácticas de integridad referencial.
 - Usar funciones nativas, procedimientos y triggers para mejorar la lógica interna del sistema.
 - Simular operaciones reales de una biblioteca: préstamos, multas, stock, historial, etc.
+
+
+## DER
+- ![Diagrama ER](<img width="3958" height="1798" alt="Diagrama ER de base de datos (pata de gallo) (1)" src="https://github.com/user-attachments/assets/494c5645-3081-41ed-9007-853cb84e435d" />
+)
