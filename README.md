@@ -24,6 +24,8 @@ Este proyecto contiene el desarrollo de una base de datos para una biblioteca. I
 ## Aclaraciones
 - El proyecto fue hecho en un script, este fue separado en carpeta solo para dar mas legibilidad.
 - Hay inserciones de datos (por ejemplo el de la tabla usuarios) que fueron hechos por medio de archivos csv y no por medio de script    
+## Presentacion 
+- https://www.canva.com/design/DAGki4ovUDg/PUziiHhedKhTgqTo9S3g4g/edit?utm_content=DAGki4ovUDg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Autor 
 - Santiago Ceballos, estudiante de Ingenieria en Sistemas de Informacion UTN FRBA. Proyecto creado para curso "Base de datos" de Tecno 3f
