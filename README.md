@@ -19,5 +19,5 @@ Este proyecto contiene el desarrollo de una base de datos para una biblioteca. I
 
 
 ## DER
-- ![Diagrama ER](<img width="3958" height="1798" alt="Diagrama ER de base de datos (pata de gallo) (1)" src="https://github.com/user-attachments/assets/494c5645-3081-41ed-9007-853cb84e435d" />
-)
+- <img width="3958" height="1798" alt="Diagrama ER de base de datos (pata de gallo) (1)" src="https://github.com/user-attachments/assets/494c5645-3081-41ed-9007-853cb84e435d" />
+
